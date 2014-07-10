@@ -41,7 +41,11 @@ http://host:8000/license?package=<package_name>&sku=<product_id>&service=<accoun
 ```
 where:
 package - is your application package name, ex. ```net.solargames.dungeonexplorer2```
+
 product_id - is your IAP name, ex. ```net.solargames.dungeonexplorer2.gold```
+
 account - is your service account email
+
 key - key filename from ```keys``` directory without extension, ex. ```key```
+
 token - your purchase token from the beginning of this manual
