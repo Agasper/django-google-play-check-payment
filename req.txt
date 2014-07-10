@@ -1,0 +1,11 @@
+Django==1.6.5
+argparse==1.2.1
+cffi==0.8.6
+cryptography==0.5.2
+## FIXME: could not find svn URL in dependency_links for this package:
+elementtree==1.2.6-20050316
+httplib2==0.9
+pyOpenSSL==0.14
+pycparser==2.10
+six==1.7.3
+wsgiref==0.1.2
