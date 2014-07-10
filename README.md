@@ -45,3 +45,14 @@ where:
 * account - is your service account email
 * key - key filename from ```keys``` directory without extension, ex. ```key```
 * token - your purchase token from the beginning of this manual
+
+Response:
+
+If purchase valid you should see:
+```
+<?xml version="1.0" encoding="UTF-8"?><result consumptionState="1" purchaseState="0" purchaseTime="1405003881937" status="0" />
+```
+otherwise:
+```
+<?xml version="1.0" encoding="UTF-8"?><result message="Invalid Value" status="1" />
+```
