@@ -48,7 +48,7 @@ where:
 
 Response:
 
-If purchase valid you will see:
+If purchase valid, you will see:
 ```
 <?xml version="1.0" encoding="UTF-8"?><result consumptionState="1" purchaseState="0" purchaseTime="1405003881937" status="0" />
 ```
