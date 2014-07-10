@@ -1,5 +1,4 @@
 #Check any Google Play Payment
-=========================
 
 To use this source u must retrieve [payment token](http://developer.android.com/google/play/billing/billing_reference.html) from google play purchases.
 
